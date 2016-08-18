@@ -1,0 +1,87 @@
+map.addMarker
+({
+        lat: 13.014476,
+        lng: 80.204729,
+        title: 'Store 10',
+        details: {
+          database_id: 42,
+          author: 'HP630'
+        },
+        infoWindow: {
+            content: '<p>You Are Searching a Vz Owned Store</p>'
+          }
+});
+map.addMarker
+({
+        lat: 38.801464,
+        lng: -97.611780,
+        title: 'Store 11',
+        details: {
+          database_id: 42,
+          author: 'HP630'
+        },
+        infoWindow: {
+            content: '<p>You Are Searching a Vz Store</p>'
+          }
+});
+map.addMarker
+({
+        lat: 40.710880,
+        lng: -74.001195,
+        title: 'Store 12',
+        details: {
+          database_id: 42,
+          author: 'HP630'
+        },
+        infoWindow: {
+            content: '<p>You Are Searching a Vz Store</p>'
+          }
+});
+map.addMarker
+({
+        lat: 40.710880,
+        lng: -74.001195,
+        title: 'Store 12',
+        details: {
+          database_id: 42,
+          author: 'HP630'
+        },
+        infoWindow: {
+            content: '<p>You Are Searching a Vz Store</p>'
+          }
+});
+map.addMarker
+({
+        lat: 38.803091,
+        lng: -97.603129,
+        title: 'Store 13',
+        details: {
+          database_id: 42,
+          author: 'HP630'
+        },
+        infoWindow: {
+            content: '<p>You Are Searching a Vz Store</p>'
+          }
+});
+map.addMarker
+({
+        lat: 21.318066,
+        lng: -157.874583,
+        title: 'Store 14',
+        details: {
+          database_id: 42,
+          author: 'HP630'
+        },
+        infoWindow: {
+            content: '<p>You Are Searching a Vz Owned Store</p>'
+          }
+});
+
+
+
+
+
+
+
+
+
